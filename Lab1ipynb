@@ -1,0 +1,83 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "FirstGoogleNotebook.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyP/zhX8TyhmqdujDV+xcIjg",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/nedburke47/PracticingForClass/blob/master/Lab1ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Q4gLFG2HBFIR",
+        "colab_type": "text"
+      },
+      "source": [
+        "### Do you like using Jupyter Notebooks? "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "8nLzCqZxxVz8",
+        "colab_type": "text"
+      },
+      "source": [
+        "\n",
+        "\n",
+        "\n",
+        "I do not have a lot of experience using Jupyter Notebooks but it seems like an efficient system. Throughout this course, I hope to improve my knowledge of this particular system.\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "3ku_4dCyB2EN",
+        "colab_type": "text"
+      },
+      "source": [
+        "### What do you want to learn more about in Jupyter Notebook?"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "8xsOha16xdCP",
+        "colab_type": "text"
+      },
+      "source": [
+        "I want to learn more about how to utilize this particular system to complete more complex and sophisticated projects. I hope to do this by utilizing my prior knowledge of coding along with what I learn in this course."
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "RgmyzjeAEho2",
+        "colab_type": "text"
+      },
+      "source": [
+        "![me on a motorcycle](https://raw.githubusercontent.com/nedburke47/PracticingForClass/master/Images/me%20on%20a%20motorcycle.jpeg)"
+      ]
+    }
+  ]
+}
